@@ -31,7 +31,3 @@ This project is a 3D character customization application built with React Three 
 - Three.js
 - @react-three/drei
 - Mantine UI
-
-## Screenshot
-
-![Screenshot](./public/screenshot.png)
